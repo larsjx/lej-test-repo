@@ -1,7 +1,7 @@
 ## Regarding the bookmarks file in this repo –
 
 ### I apologize for the very unattractive and invalid HTML.
-#### It was created quickly as resource for anyone who wants it by:
+#### I made it quickly as resource for anyone who wants it by:
 
   * Cutting out the relevant portions of a Chrome bookmarks file
   * Converting that to Safari bookmarks to strip off the metadata
