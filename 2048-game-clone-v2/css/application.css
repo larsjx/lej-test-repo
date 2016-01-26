@@ -1,0 +1,37 @@
+* {
+  font-size: 60px;
+  font-weight: 700;
+  font-family:monospace;
+  text-align:center;
+  color: #fff;
+}
+
+.gameboard {
+  position:relative;
+}
+
+html {
+  background-color: black;
+}
+
+table {
+  background: url(../imgs/bg-1.jpg);
+  background-size: cover;
+  margin-right: auto;
+  margin-left:auto;
+}
+
+td {
+  text-align: center;
+  border: solid #fff 4px;
+  height: 150px;
+  width: 150px;
+}
+
+canvas {
+    position: absolute;
+    top: 0;
+    left:0;
+/* Set transparent to let any other canvases render through */
+    background-color: transparent;
+}
